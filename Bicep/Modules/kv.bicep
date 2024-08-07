@@ -1,5 +1,4 @@
 targetScope = 'resourceGroup'
-@secure()
 param location string
 param service string
 param environment string
